@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/EthanMillet/React_Portfolio",
+  "homepage": "https://ethanmillet.github.io/React_Portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^11.1.0",
@@ -10,7 +10,6 @@
     "axios": "^1.4.0",
     "bootstrap": "^5.2.3",
     "dotenv": "^16.0.3",
-    "gh-pages": "^5.0.0",
     "pretty": "^2.0.0",
     "react": "^17.0.2",
     "react-bootstrap": "^2.7.4",
@@ -44,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
