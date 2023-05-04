@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/EthanMillet/React_Portfolio/static/css/main.4932e8eb.css",
+    "main.js": "/EthanMillet/React_Portfolio/static/js/main.16137701.js",
+    "pdf.worker.js": "/EthanMillet/React_Portfolio/c90b3fab6b73497431d84740f2c0bdd5.js",
+    "static/media/SkyJam.png": "/EthanMillet/React_Portfolio/static/media/SkyJam.4667dbca3f6575945211.png",
+    "static/media/Eventify.jpg": "/EthanMillet/React_Portfolio/static/media/Eventify.9bef30a1b2039da9683d.jpg",
+    "static/media/logo.png": "/EthanMillet/React_Portfolio/static/media/logo.e4776735b3f0de33de27.png",
+    "static/media/sewer.png": "/EthanMillet/React_Portfolio/static/media/sewer.5830a7323ed2f9a66b9d.png",
+    "static/media/SpellBinder.jpg": "/EthanMillet/React_Portfolio/static/media/SpellBinder.1e1063ed9a7518edcfbf.jpg",
+    "static/media/CoCalendar.png": "/EthanMillet/React_Portfolio/static/media/CoCalendar.5a8880eb7e2f937fd01a.png",
+    "static/media/Resume.pdf": "/EthanMillet/React_Portfolio/static/media/Resume.30fb28f4810f4baac117.pdf",
+    "index.html": "/EthanMillet/React_Portfolio/index.html",
+    "static/media/github.svg": "/EthanMillet/React_Portfolio/static/media/github.91bb575a66c796cc50abb9a37ec39d0f.svg",
+    "static/media/linkedin.svg": "/EthanMillet/React_Portfolio/static/media/linkedin.570faf3ee1ce471695284dcd78dabff9.svg",
+    "static/media/twitter.svg": "/EthanMillet/React_Portfolio/static/media/twitter.5e22e3f5e48dad8abd6f3515551f944a.svg",
+    "main.4932e8eb.css.map": "/EthanMillet/React_Portfolio/static/css/main.4932e8eb.css.map",
+    "main.16137701.js.map": "/EthanMillet/React_Portfolio/static/js/main.16137701.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4932e8eb.css",
+    "static/js/main.16137701.js"
+  ]
+}
